@@ -1,0 +1,337 @@
+Datos generales
+CURP: DIAG891016HOCZRR06 Fecha de nacimiento: 16/oct/1989 RFC: DIAG891016B79
+Nombre: GERARDO ULISES Primer apellido: DIAZ Segundo apellido: ARANGO
+Sexo: Masculino Estado conyugal: Soltero(a) País de nacimiento: México
+Entidad federativa: OAXACA CVU: 480421
+Contacto principal: guda_1989@hotmail.com Nacionalidad: Mexicana
+Identificadores de autor
+ORC ID: https://orcid.org/0000-0002-8144-6615
+Researcher ID Thomson: null
+arXiv Author ID: null
+PubMed Author ID: null
+Open ID: null
+Medios de contacto
+Medio de contacto Categoría de contacto Correo / Teléfono Principal
+Correo electrónico Oficial guda_1989@hotmail.com SI
+Estado o distrito federal: PUEBLA Municipio o delegación: SAN ANDRÉS CHOLULA
+Localidad: SAN ANDRÉS CHOLULA Código postal: 72840
+Asentamiento: Pueblo - Santa María Tonantzintla
+Vialidad de domicilio
+Nombre de vialidad:
+Benito Juarez
+Identificación del inmueble
+Número exterior: Parte numérica: 20 Parte alfanumérica: B Número exterior anterior: null
+Número interior: Parte numérica: Parte alfanumérica:
+Entre que calles
+Nombre de vialidad:
+null null y null null
+Calle posterior
+Nombre:
+null null
+Descripción de la ubicación:
+Casa rosa
+Formación académica
+Grados académicos
+Título: MAETRÍA EN CIENCIAS CON ESPECIALIDAD EN LA ELECTRÓNICA
+Nivel de escolaridad: Maestría Estatus: Grado obtenido
+Cédula profesional: Opciones de titulación: Tesis
+Título de tesis: Implementación en múltiples plataformas de técnica esférica de trazado de trayectorias homotópicas libres de colisión
+Fecha de obtención: 04/jul/2014
+Institución de obtención de grado: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA (INAOE)
+País de obtención de grado: México
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+Grados académicos
+Título: DOCTOR EN CIENCIAS CON ESPECIALIDAD EN ELECTRÓNICA
+Nivel de escolaridad: Doctorado Estatus: Grado obtenido
+Cédula profesional: Opciones de titulación: Tesis
+Método de planeación de rutas de desplazamiento robótico basado en homotopía de continuación para espacios de configuraciones multidimensionales
+Título de tesis:
+Fecha de obtención: 13/jul/2018
+Institución de obtención de grado: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA (INAOE)
+País de obtención de grado: México
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+Trayectoria profesional
+Experiencia laboral
+Puesto laboral: Investigadores
+Institución: TECNOLOGICO NACIONAL DE MEXICO
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+Nombre del puesto / Nombramiento:
+Profesor Investigador
+Logros:
+Ingeniería y tecnología Ciencias tecnológicas
+Tecnología electrónica Diseño de circuitos
+Profesor Investigador
+null
+Inicio: 30/nov/2020
+Experiencia laboral
+Puesto laboral: Investigadores
+Institución: UNIVERSIDAD DE XALAPA, A.C.
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+Nombre del puesto / Nombramiento:
+Profesor Investigador
+Logros:
+null
+Inicio: 17/feb/2020 Fin: 27/nov/2020
+Experiencia laboral
+Puesto laboral: Otro
+Institución: UNIVERSIDAD INTERAMERICANA, A.C.
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Circuitos
+Nombre del puesto / Nombramiento:
+Profesor por asignatura
+Logros:
+Ingeniería y tecnología Ciencias tecnológicas
+Tecnología electrónica Circuitos
+Profesor por asignatura
+Contribución en la actualización de guías y programas académicos a nivel maestria y licenciatura.
+Inicio: 19/ago/2019 Fin: 18/dic/2020
+Producción científica, tecnológica y de innovación
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 15731979
+Nombre: Analog Integrated Circuits Signal and Processing
+País: United States of America
+Título del artículo: A Fully Symbolic Homotopy-based Memristor Model for Applications to Circuit Simulation
+Número de la revista: 1 Volumen de la revista: 85
+Año de edición: 2015 Año de publicación: 2015
+Palabra clave 1: Memristor Palabra clave 2: Memristor models Palabra clave 3: Memristive circuits
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Dispositivos semiconductores
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz Arango MANUAL Autor
+Publicación de artículos
+ISSN impreso: 15455955 ISSN electrónico: 15455955
+Nombre: IEEE Transactions on Automation Science and Engineering
+País:
+Título del artículo: Homotopy Path Planning for Terrestrial Robots Using Spherical Algorithm
+Número de la revista: 2 Volumen de la revista: 15
+Año de edición: Año de publicación: 2018
+Palabra clave 1: path planning Palabra clave 2: robotics Palabra clave 3: homotopy
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Otras
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz-Arango null SCOPUS Autor
+Héctor Vázquez-Leal null SCOPUS Autor
+Luis Hernandez-Martinez null SCOPUS Autor
+María Teresa Sanz Pascual null SCOPUS Autor
+Mario Sandoval-Hernandez null SCOPUS Autor
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 04031793
+Nombre: Mathematical Problems in Engineering
+País:
+Título del artículo: Approximation of Fresnel Integrals with Applications to Diffraction Problems
+Número de la revista: 2018 Volumen de la revista: 2018
+Año de edición: Año de publicación: 2018
+Palabra clave 1: Fresnel Integrals Palabra clave 2: Diffraction Problems Palabra clave 3: Approximation
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería electrónica Subdisciplina: Computación
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz Arango MANUAL Autor
+Mario Sandoval Hernandez MANUAL Autor
+Hector Vazquez Leal MANUAL Autor
+Luis Hernandez Martinez MANUAL Autor
+Uriel Filobello Nino MANUAL Autor
+Victor Jimenez Fernandez MANUAL Autor
+Roberto Castañeda Sheissa MANUAL Autor
+Publicación de artículos
+ISSN impreso: 14248220 ISSN electrónico: 14248220
+Nombre: Sensors
+País:
+Título del artículo: Multiple-target homotopic quasi-complete path planning method for mobile robot using a piecewise linear approach
+Número de la revista: 11 Volumen de la revista: 20
+Año de edición: Año de publicación: 2020
+Palabra clave 1: Path planning Palabra clave 2: HPPM Palabra clave 3: Homotopy
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz-Arango null SCOPUS Autor
+Hector Vazquez-Leal null SCOPUS Autor
+Luis Hernandez-Martinez null SCOPUS Autor
+Victor Manuel Jimenez-Fernandez null SCOPUS Autor
+Aurelio Heredia-Jimenez null SCOPUS Autor
+Roberto C. Ambrosio null SCOPUS Autor
+Jesus Huerta-Chua null SCOPUS Autor
+Hector De Cos-Cholula null SCOPUS Autor
+Sergio Hernandez-Mendez null SCOPUS Autor
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 13102623
+Nombre: energies
+País:
+Título del artículo: FPGA Implementation of Homotopic Path Planning Method with Automatic Assignment of Repulsion Parameter
+Número de la revista: 10 Volumen de la revista: 13
+Año de edición: Año de publicación: 2020
+Palabra clave 1: FPGA Palabra clave 2: HPPM Palabra clave 3: Mobile Robot
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Hector Eduardo De Cos Cholula MANUAL Autor
+Gerardo Ulises Diaz Arango MANUAL Autor
+Hector Vazquez Leal MANUAL Autor
+Luis Hernandez Martinez MANUAL Autor
+Librado Arturo Sarmiento Reyes MANUAL Autor
+Maria Tereza Sanz Pascual MANUAL Autor
+Roberto Castañeda Sheissa MANUAL Autor
+Publicación de artículos
+ISSN impreso: 14248220 ISSN electrónico: 14248220
+Nombre: Sensors
+País:
+Título del artículo: Exploring a novel multiple-query resistive grid-based planning method applied to high-DOF robotic manipulators
+Número de la revista: 9 Volumen de la revista: 21
+Año de edición: Año de publicación: 2021
+Palabra clave 1: high-DOF robot Palabra clave 2: industrial robot Palabra clave 3: Path planning
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Automatización Industrial
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Jesus Huerta-Chua null SCOPUS Autor
+Gerardo Diaz-Arango null SCOPUS Autor
+Hector Vazquez-Leal null SCOPUS Autor
+Javier Flores-Mendez null SCOPUS Autor
+Mario Moreno-Moreno null SCOPUS Autor
+Roberto C. Ambrosio-Lazaro null SCOPUS Autor
+Carlos Hernandez-Mejia null SCOPUS Autor
+Memorias
+Título de la memoria: 2014 IEEE 5th Latin American Symposium on Circuits and Systems
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2014 País: Chile
+Palabra clave 1: memristive systems Palabra clave 2: mem-elements Palabra clave 3: analog circuit design
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Arturo Sarmiento Reyes
+Gerardo Diaz Arango
+Luis Hernandez Martinez
+Carlos Hernandez Mejia
+Memorias
+Título de la memoria: 2016 IEEE International Symposium on Circuits and Systems (ISCAS)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2016 País: Canada
+Palabra clave 1: Homotopy continuation Palabra clave 2: mobile robotics Palabra clave 3: free-collision path
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería de sistemas Subdisciplina: Computación
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Luis Hernandez Martinez
+Arturo Sarmiento Reyes
+Hector Vazquez Leal
+Memorias
+Título de la memoria: 2017 14th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2017 País: México
+Palabra clave 1: Diferential drive robot Palabra clave 2: Homotopy Palabra clave 3: Mobile robot
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Hector Vazquez Leal
+Luis Hernandez Martinez
+Memorias
+Título de la memoria: 2018 IEEE 9th Latin American Symposium on Circuits & Systems (LASCAS)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2018 País: México
+Palabra clave 1: Off-line Route Planning Palabra clave 2: Vehicle guidance Palabra clave 3: Non-linear Resistive Grid
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Computación Subdisciplina: Computación para ingeniería
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Hector DeCos Cholula
+Luis Hernandez Martinez
+Francisco Castro Gonzalez
+Roberto Ruiz Gomez
+Hector Vazquez Leal
+Memorias
+Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2019 País: México
+Palabra clave 1: Regulators Palabra clave 2: Capacitance Palabra clave 3: Logic gates
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Fredy Montalvo Galicia
+Gerardo Diaz Arango
+Carlos Ventura Arizmendi
+Belen Calvo
+María Tereza Sanz Pascual
+Memorias
+Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2019 País: México
+Palabra clave 1: Mathematical model Palabra clave 2: Homotopy Palabra clave 3: NAES
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Velez Lopez
+Luis Hernandez Martinez
+Gerardo Diaz Arango
+Hector Vazquez Leal
+Formación de capital humano
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD INTERAMERICANA, A.C.
+Nombre del programa: Automatización Industrial en Manufactura Digital y Robótica
+Nombre del curso o asignatura: Automatas programables
+Fecha inicio: 20/sep/2019 Fecha fin: 01/nov/2019 Horas totales: 48
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería electrónica Subdisciplina: Automatización y control
+Lenguas e idiomas
+Idioma
+Idioma: English (United States)
+Grado de dominio
+Grado de dominio: Intermedio Nivel de conversación: Básico
+Nivel de lectura: Intermedio Nivel de escritura: Intermedio
+Fecha de evaluación: null ¿Cuenta con certificación? No
+Documento probatorio: Vigencia de: null a null
+Puntos / porcentaje: 0 Nivel conferido: null
+Institución que otorgó certificado: null
+Idioma
+Idioma: Spanish
+Grado de dominio
+Grado de dominio: Lengua Materna Nivel de conversación: Lengua Materna
+Nivel de lectura: Lengua Materna Nivel de escritura: Lengua Materna
+Fecha de evaluación: null ¿Cuenta con certificación? No
+Documento probatorio: null Vigencia de: null a null
+Puntos / porcentaje: null Nivel conferido: null
+Institución que otorgó certificado: null

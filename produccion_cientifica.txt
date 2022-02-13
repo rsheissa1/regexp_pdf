@@ -1,0 +1,212 @@
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 15731979
+Nombre: Analog Integrated Circuits Signal and Processing
+País: United States of America
+Título del artículo: A Fully Symbolic Homotopy-based Memristor Model for Applications to Circuit Simulation
+Número de la revista: 1 Volumen de la revista: 85
+Año de edición: 2015 Año de publicación: 2015
+Palabra clave 1: Memristor Palabra clave 2: Memristor models Palabra clave 3: Memristive circuits
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Dispositivos semiconductores
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz Arango MANUAL Autor
+Publicación de artículos
+ISSN impreso: 15455955 ISSN electrónico: 15455955
+Nombre: IEEE Transactions on Automation Science and Engineering
+País:
+Título del artículo: Homotopy Path Planning for Terrestrial Robots Using Spherical Algorithm
+Número de la revista: 2 Volumen de la revista: 15
+Año de edición: Año de publicación: 2018
+Palabra clave 1: path planning Palabra clave 2: robotics Palabra clave 3: homotopy
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Otras
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz-Arango null SCOPUS Autor
+Héctor Vázquez-Leal null SCOPUS Autor
+Luis Hernandez-Martinez null SCOPUS Autor
+María Teresa Sanz Pascual null SCOPUS Autor
+Mario Sandoval-Hernandez null SCOPUS Autor
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 04031793
+Nombre: Mathematical Problems in Engineering
+País:
+Título del artículo: Approximation of Fresnel Integrals with Applications to Diffraction Problems
+Número de la revista: 2018 Volumen de la revista: 2018
+Año de edición: Año de publicación: 2018
+Palabra clave 1: Fresnel Integrals Palabra clave 2: Diffraction Problems Palabra clave 3: Approximation
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería electrónica Subdisciplina: Computación
+¿Recibió apoyo CONACYT?: Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz Arango MANUAL Autor
+Mario Sandoval Hernandez MANUAL Autor
+Hector Vazquez Leal MANUAL Autor
+Luis Hernandez Martinez MANUAL Autor
+Uriel Filobello Nino MANUAL Autor
+Victor Jimenez Fernandez MANUAL Autor
+Roberto Castañeda Sheissa MANUAL Autor
+Publicación de artículos
+ISSN impreso: 14248220 ISSN electrónico: 14248220
+Nombre: Sensors
+País:
+Título del artículo: Multiple-target homotopic quasi-complete path planning method for mobile robot using a piecewise linear approach
+Número de la revista: 11 Volumen de la revista: 20
+Año de edición: Año de publicación: 2020
+Palabra clave 1: Path planning Palabra clave 2: HPPM Palabra clave 3: Homotopy
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Gerardo Diaz-Arango null SCOPUS Autor
+Hector Vazquez-Leal null SCOPUS Autor
+Luis Hernandez-Martinez null SCOPUS Autor
+Victor Manuel Jimenez-Fernandez null SCOPUS Autor
+Aurelio Heredia-Jimenez null SCOPUS Autor
+Roberto C. Ambrosio null SCOPUS Autor
+Jesus Huerta-Chua null SCOPUS Autor
+Hector De Cos-Cholula null SCOPUS Autor
+Sergio Hernandez-Mendez null SCOPUS Autor
+Publicación de artículos
+ISSN impreso: null ISSN electrónico: 13102623
+Nombre: energies
+País:
+Título del artículo: FPGA Implementation of Homotopic Path Planning Method with Automatic Assignment of Repulsion Parameter
+Número de la revista: 10 Volumen de la revista: 13
+Año de edición: Año de publicación: 2020
+Palabra clave 1: FPGA Palabra clave 2: HPPM Palabra clave 3: Mobile Robot
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Hector Eduardo De Cos Cholula MANUAL Autor
+Gerardo Ulises Diaz Arango MANUAL Autor
+Hector Vazquez Leal MANUAL Autor
+Luis Hernandez Martinez MANUAL Autor
+Librado Arturo Sarmiento Reyes MANUAL Autor
+Maria Tereza Sanz Pascual MANUAL Autor
+Roberto Castañeda Sheissa MANUAL Autor
+Publicación de artículos
+ISSN impreso: 14248220 ISSN electrónico: 14248220
+Nombre: Sensors
+País:
+Título del artículo: Exploring a novel multiple-query resistive grid-based planning method applied to high-DOF robotic manipulators
+Número de la revista: 9 Volumen de la revista: 21
+Año de edición: Año de publicación: 2021
+Palabra clave 1: high-DOF robot Palabra clave 2: industrial robot Palabra clave 3: Path planning
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Automatización Industrial
+¿Recibió apoyo CONACYT?: No
+Coautores
+Coautor Origen Rol participación
+Jesus Huerta-Chua null SCOPUS Autor
+Gerardo Diaz-Arango null SCOPUS Autor
+Hector Vazquez-Leal null SCOPUS Autor
+Javier Flores-Mendez null SCOPUS Autor
+Mario Moreno-Moreno null SCOPUS Autor
+Roberto C. Ambrosio-Lazaro null SCOPUS Autor
+Carlos Hernandez-Mejia null SCOPUS Autor
+Memorias
+Título de la memoria: 2014 IEEE 5th Latin American Symposium on Circuits and Systems
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2014 País: Chile
+Palabra clave 1: memristive systems Palabra clave 2: mem-elements Palabra clave 3: analog circuit design
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Arturo Sarmiento Reyes
+Gerardo Diaz Arango
+Luis Hernandez Martinez
+Carlos Hernandez Mejia
+Memorias
+Título de la memoria: 2016 IEEE International Symposium on Circuits and Systems (ISCAS)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2016 País: Canada
+Palabra clave 1: Homotopy continuation Palabra clave 2: mobile robotics Palabra clave 3: free-collision path
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería de sistemas Subdisciplina: Computación
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Luis Hernandez Martinez
+Arturo Sarmiento Reyes
+Hector Vazquez Leal
+Memorias
+Título de la memoria: 2017 14th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2017 País: México
+Palabra clave 1: Diferential drive robot Palabra clave 2: Homotopy Palabra clave 3: Mobile robot
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería mecatrónica Subdisciplina: Robótica
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Hector Vazquez Leal
+Luis Hernandez Martinez
+Memorias
+Título de la memoria: 2018 IEEE 9th Latin American Symposium on Circuits & Systems (LASCAS)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2018 País: México
+Palabra clave 1: Off-line Route Planning Palabra clave 2: Vehicle guidance Palabra clave 3: Non-linear Resistive Grid
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Computación Subdisciplina: Computación para ingeniería
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Diaz Arango
+Hector DeCos Cholula
+Luis Hernandez Martinez
+Francisco Castro Gonzalez
+Roberto Ruiz Gomez
+Hector Vazquez Leal
+Memorias
+Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2019 País: México
+Palabra clave 1: Regulators Palabra clave 2: Capacitance Palabra clave 3: Logic gates
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Fredy Montalvo Galicia
+Gerardo Diaz Arango
+Carlos Ventura Arizmendi
+Belen Calvo
+María Tereza Sanz Pascual
+Memorias
+Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+Título de la obra:
+Autor de la obra: NO APLICA NO APLICA NO APLICA
+Año de publicación: 2019 País: México
+Palabra clave 1: Mathematical model Palabra clave 2: Homotopy Palabra clave 3: NAES
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ciencias tecnológicas
+Disciplina: Tecnología electrónica Subdisciplina: Diseño de circuitos
+¿Recibió apoyo CONACYT? Sí Fondo/Programa: Programa CONACYT - Beca Nacional
+Participantes
+Gerardo Velez Lopez
+Luis Hernandez Martinez
+Gerardo Diaz Arango
+Hector Vazquez Leal
