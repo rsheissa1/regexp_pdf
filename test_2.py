@@ -37,9 +37,13 @@ def lectura_linea(linea):
     #    pass
     
     if linea5:
-        #print(f"Linea5: {linea5}")
+        tempo=""
+        print(f"Linea5: {linea5}")
         for i in linea5:
-            datos1.write(i + ",")
+            tempo = tempo + i + ","
+            #datos1.write(i + ",")
+        tempo = re.sub("\S$", "", tempo)
+        datos1.write(tempo + "\n")
     #else:
         #print("Linea con valor null")
         #pass
