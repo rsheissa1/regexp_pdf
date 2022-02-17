@@ -16,15 +16,15 @@ def lee_Fechas(lineaFecha):
     if lineaFecha[1] != "":
         listaDatos.append(lineaFecha[1])
     else:
-        listaDatos.append("")
+        listaDatos.append(" ")
     if lineaFecha[5] != "":
         listaDatos.append(lineaFecha[5]+"/"+lineaFecha[6]+"/"+lineaFecha[7])
     else:
-        listaDatos.append("")
+        listaDatos.append(" ")
     if lineaFecha[9] != "":
         listaDatos.append(lineaFecha[9])
     else:
-        listaDatos.append("")
+        listaDatos.append(" ")
 
 def lee_Nombre(lineaNombre):
     listaDatos.insert(0,lineaNombre[1])
@@ -36,11 +36,11 @@ def lee_Nombre(lineaNombre):
     if lineaNombre[indice+3] != "":
         listaDatos.insert(indice,lineaNombre[indice+3])
     else:
-        listaDatos.append("")
+        listaDatos.append(" ")
     if lineaNombre[indice+6] != "":
         listaDatos.insert(indice+1,lineaLista1[indice+6])
     else:
-        listaDatos.append("")
+        listaDatos.append(" ")
 
 def lee_DatosPersonales(lineaPersonal):
     listaDatos.append(lineaPersonal[1])
@@ -52,10 +52,72 @@ def lee_NumCVU(lineaCvu):
     listaDatos.append(lineaCvu[4])
 
 def lee_Orcid(lineaOrcid):
-    if lineaOrcid[2] != "null":
-        listaDatos.append(lineaOrcid[2]+"://"+lineaOrcid[3]+"/"+lineaOrcid[4]+"-"+lineaOrcid[5]+"-"+lineaOrcid[6]+"-"+lineaOrcid[7])
+    listaDatos.append(lineaOrcid[2]+"://"+lineaOrcid[3]+"/"+lineaOrcid[4]+"-"+lineaOrcid[5]+"-"+lineaOrcid[6]+"-"+lineaOrcid[7])
+        
+def lee_Direccion(lineaDireccion):
+    i = 4
+    
+    tempo1 = lineaDireccion[i]
+    i = i+1
+    while i < len(lineaDireccion):
+        if lineaDireccion[i] == "Municipio":
+            i = i + 3
+            break
+        else:
+            tempo1 = tempo1 + " " + lineaDireccion[i]
+            i = i + 1
+            
+    tempo2 = lineaDireccion[i]
+    i = i + 1
+    while i < len(lineaDireccion):
+        tempo2 = tempo2 + " "+ lineaDireccion[i]
+        i = i+1
+        
+    listaDatos.append(tempo1)
+    listaDatos.append(tempo2)
+
+def lee_CP(lineaCp):
+    i=1
+    
+    tempo1 = lineaCp[i]
+    i = i+1
+    while i < len(lineaCp):
+        if lineaCp[i] == "Código":
+            i = i + 2
+            break
+        else:
+            tempo1 = tempo1 + " " + lineaCp[i]
+            i = i + 1
+    
+    listaDatos.append(tempo1)
+    listaDatos.append(lineaCp[i])
+    
+    #print(i)
+
+def lee_Asentamiento(lineaAsentamiento):
+    tempo1 = lineaAsentamiento[1] + "-"
+    for i in range(2,len(lineaAsentamiento)):
+        tempo1 = tempo1 + " " + lineaAsentamiento[i]
+    
+    listaDatos.append(tempo1)
+    
+def lee_Vialidad(lineaVialidad):
+    tempo1 = lineaVialidad[0]
+    for i in range(1,len(lineaVialidad)):
+        tempo1 = tempo1 + " " + lineaVialidad[i]
+    
+    listaDatos.append(tempo1)
+    
+def lee_Exterior(lineaExterior):
+    if lineaExterior[4] != "":
+        listaDatos.append(lineaExterior[4])
+    
+    if lineaExterior[7] != "":
+        listaDatos.append(lineaExterior[7])
+    
 
 listaDatos = []
+banderaVialidad = 0
 
 if __name__ == "__main__":
     with open("generales_filtrados.txt", "r") as f:
@@ -76,8 +138,37 @@ if __name__ == "__main__":
                 lee_NumCVU(lineaLista1)
             # Revisa si es el renglón del indicador ORCID
             if lineaLista1[0] == "ORC" and lineaLista1[1] == "ID":
-                lee_Orcid(lineaLista1)
-    
-    print(listaDatos)
+                if lineaLista1[2] != "null":
+                    lee_Orcid(lineaLista1)
+                else:
+                    listaDatos.append(" ")
+            # Revisa los datos de residencia, en caso de que se hayan capturado en el CVU
+            if lineaLista1[0] == "Estado" and lineaLista1[2] == "distrito":
+                if lineaLista1 != "null":
+                    lee_Direccion(lineaLista1)
+            # Revisa datos de residencia, Localidad y Código Postal
+            if lineaLista1[0] == "Localidad":
+                lee_CP(lineaLista1)
+            # Revisa datos de Asentamiento
+            if lineaLista1[0] == "Asentamiento":
+                lee_Asentamiento(lineaLista1)
+            # Revisa si existe el apartado Nombre de vialidad, si existe banderaVialidad = 1
+            if lineaLista1[0] == "Nombre" and len(lineaLista1) > 1 and lineaLista1[2] == "vialidad" and banderaVialidad == 0:
+                banderaVialidad = 1
+                next
+            else:
+                if banderaVialidad == 1:
+                    lee_Vialidad(lineaLista1)
+                    banderaVialidad = 2
+            # Revisa si existen datos del número exterior del domicilio
+            if lineaLista1[0] == "Número" and lineaLista1[1] == "exterior":
+                lee_Exterior(lineaLista1)
+                
+                
+    archivo_ordenado = open("datos_personales_db.txt", "w")
+    test1 = ",".join(listaDatos)
+    archivo_ordenado.write(test1)
 
-f.close()
+    archivo_ordenado.close()    
+
+    f.close()
