@@ -11,6 +11,8 @@ Created on Wed Feb 16 21:59:40 2022
 # Los datos se guardarán en una lista, que a su vez será vaciada en un archivo TXT para poder ser
 # procesados por un progrma que lea y guarde estos datos en la base de datos correspondiente.
 
+
+# Función que localiza la línea donde se encuentra la palabra deseada
 def findline(word,arr1):
     #print(f"arr length: {len(arr1)}")
     line = []
@@ -18,56 +20,106 @@ def findline(word,arr1):
         #print(f"{arr1[i]}")
         if word in arr1[i]:
             #print(f"line {i+1}, ")
-            line.append(i+1)
+            line.append(i)
     
     return line
 
+def leeArticulo(archData,datoArt,datoLim):
+    for i in datoArt:
+        print(archData[i])
+
+
 if __name__ == "__main__":
-    # READ FILE
+    # Abre el archivo para lectura
     df = open("produccion_cientifica_filtrados.txt")
     
-    # read file
+    # Se lee el archivo
     read = df.read()
     
-    # return cursor to
-    # the beginning
-    # of the file.
+    # Se posiciona el lector al inicio del archivo
     df.seek(0)
     read
     
-    # create empty list
+    # Se crea una lista vacía para guardar las líneas del archivo
     arr = []
-    #arr1 = []
+    # Se crea una lista vacía para guardar los números de línea de cada documento.
+    # Únicamente se guardan las secciones no vacías
+    secciones = []
+    
  
-    # count number of
-    # lines in the file
+    # Se cuentan los números de línea que contiene el archivo a procesar
     line = 1
     for word in read:
         if word == '\n':
             line += 1
     
-    #print("Number of lines in file is: ", line)
+    #print(f"Número de líneas en el archivo: ", line)
     
     for i in range(line):
-        # readline() method,
-        # reads one line at
-        # a time
+        # Se utiliza método readline() method para leer una línea a la vez,
+        # además se remueven los indicadores de nueva línea (\n)
         temp = df.readline()
         arr.append(temp.strip('\n'))
-        #arr.append(df.readline())
-        #arr1.append(df.tell())
+        
     
-    #print(f"arr length: {len(arr)}")
-    
-    # Busca la línea donde se encuentra la sección Datos generales
+    # Busca las líneas donde se encuentran capturados artículos
     pub_art = findline("Publicación,de,artículos", arr)
     print(f"Líneas artículos: {pub_art} \n")
-    # Busca la línea donde se encuentra la sección Formación académica
+    # Busca las líneas donde se encuentran capturados libros
+    pub_lib = findline("Publicación,de,libros", arr)
+    print(f"Líneas libros: {pub_lib} \n")
+    # Busca las líneas donde se encuentran capturados capítulos
+    pub_cap = findline("Capítulos,publicados", arr)
+    print(f"Líneas capítulos: {pub_cap} \n")
+    # Busca las líneas donde se encuentran capturados reportes técnicos
+    pub_rep = findline("Reportes,técnicos", arr)
+    print(f"Líneas reportes: {pub_rep} \n")
+    # Busca las líneas donde se encuentran capturadas memorias
     pub_mem = findline("Memorias", arr)
     print(f"Líneas Memorias: {pub_mem} \n")
+    # Busca las líneas donde se encuentran capturados documentos de trabajo
+    pub_trab = findline("Documentos,de,trabajo", arr)
+    print(f"Líneas documentos de trabajo: {pub_trab} \n")
+    # Busca las líneas donde se encuentran capturadas reseñas
+    pub_res = findline("Reseñas", arr)
+    print(f"Líneas reseñas: {pub_res} \n")
     
-    #df.seek(121)
-    print(arr[1])
+    
+    
+    
+    #if not pub_lib:
+    #    print("No tiene libros publicados")
+    # Verifica que la categoría tenga al menos un elemento para procesar
+    # Se guardan los números en una lista de listas
+    if pub_art:
+        pub_art.insert(0,"articulos")
+        secciones.append(pub_art)
+    
+    if pub_lib:
+        pub_lib.insert(0,"libros")
+        secciones.append(pub_lib)
+    
+    if pub_cap:
+        pub_cap.insert(0,"capitulos")
+        secciones.append(pub_cap)
+    
+    if pub_rep:
+        pub_rep.insert(0,"reportes")
+        secciones.append(pub_rep)
+    
+    if pub_mem:
+        pub_mem.insert(0,"memorias")
+        secciones.append(pub_mem)
+    
+    if pub_trab:
+        pub_trab.insert(0,"trabajo")
+        secciones.append(pub_trab)
+    
+    if pub_res:
+        pub_res.insert(0,"reseña")
+        secciones.append(pub_res)
+        
+    print(secciones)
     
     #df.seek(12797)
     #read1 = df.readline()
