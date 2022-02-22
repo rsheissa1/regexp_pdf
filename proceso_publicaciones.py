@@ -84,13 +84,10 @@ if __name__ == "__main__":
     pub_res = findline("Reseñas", arr)
     print(f"Líneas reseñas: {pub_res} \n")
     
-    
-    
-    
-    #if not pub_lib:
-    #    print("No tiene libros publicados")
     # Verifica que la categoría tenga al menos un elemento para procesar
     # Se guardan los números en una lista de listas
+    # La identificación dentro de la lista es para realizar los ajustes de
+    # lectura según sea el tipo.
     if pub_art:
         pub_art.insert(0,"articulos")
         secciones.append(pub_art)
@@ -120,6 +117,11 @@ if __name__ == "__main__":
         secciones.append(pub_res)
         
     print(secciones)
+    
+    if len(secciones) > 1:
+        pass
+    else:
+        secciones.append(line)
     
     #df.seek(12797)
     #read1 = df.readline()
