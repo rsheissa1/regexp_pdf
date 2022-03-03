@@ -7,8 +7,8 @@ Created on Wed Feb 16 21:59:40 2022
 """
 
 # Este programa lee datos filtrados del apartado Producción Científica del CVU
-# Se extraen datos que serán guardados en la base de datos.
-# Los datos se guardarán en una lista, que a su vez será vaciada en un archivo TXT para poder ser
+# Se extraen datos que serán registrados en la base de datos.
+# Serán guardados en una lista, que a su vez será vaciada en un archivo TXT para poder ser
 # procesados por un progrma que lea y guarde estos datos en la base de datos correspondiente.
 
 
@@ -24,9 +24,68 @@ def findline(word,arr1):
     
     return line
 
-def leeArticulo(archData,datoArt,datoLim):
-    for i in datoArt:
-        print(archData[i])
+# Función que procesa datos de artículos
+def leeArticulo(arr1,linDatos):
+    for i in range(len(linDatos)):
+        print("\n")
+        if i+1 < len(linDatos):
+            for j in range(linDatos[i]+1,linDatos[i+1]):
+                tempo = arr1[j].split(",")
+                # Verifica que tenga valores de ISSN impreso y/o electrónico
+                if tempo[0] == "ISSN":
+                    if tempo[2] == "null":
+                        print("N/A")
+                    else:
+                        print(tempo[2])
+                    if tempo[5] == "null":
+                        print("N/A")
+                    else:
+                        print(tempo[5])
+                # Verifica que esté capturado el nombre de la revista
+                if tempo[0] == "Nombre":
+                    i = 1
+                    tempo1 = tempo[i]
+                    i = i + 1
+                    while i < len(tempo):
+                        tempo1 = tempo1 + " " + tempo[i]
+                        i = i + 1
+                    print(tempo1)
+                # Verifica si está capturado el país de origen para la revista
+                if tempo[0] == "País":
+                    if len(tempo) > 1:
+                        i = 1
+                        tempo1 = tempo[i]
+                        i = i + 1
+                        while i < len(tempo):
+                            tempo1 = tempo1 + " " + tempo[i]
+                            i = i + 1
+                        print(tempo1)
+                    else:
+                        print("N/A")
+                # Verifica que tenga titulo del artículo capturado
+                if tempo[0] == "Título":
+                    i = 3
+                    tempo1 = tempo[i]
+                    i = i + 1
+                    while i < len(tempo):
+                        tempo1 = tempo1 + " "+ tempo[i]
+                        i = i+1
+                    print(tempo1)
+                # Verifica número de revista y volumen
+                if tempo[0] == "Número":
+                    if tempo[4] != "" or tempo[4] != "null":
+                        print(tempo[4])
+                    else:
+                        print("N\A")
+                    if tempo[9] != "" or tempo[9] != "null":
+                        print(tempo[9])
+                    else:
+                        print("N\A")
+                if tempo[0] == "Año":
+                    if tempo[3] == "Año":
+                        print("N/A")
+                    else:
+                        print(tempo[3])
 
 
 if __name__ == "__main__":
@@ -35,6 +94,7 @@ if __name__ == "__main__":
     
     # Se lee el archivo
     read = df.read()
+    contenido = df.readlines()
     
     # Se posiciona el lector al inicio del archivo
     df.seek(0)
@@ -46,7 +106,6 @@ if __name__ == "__main__":
     # Únicamente se guardan las secciones no vacías
     secciones = []
     
- 
     # Se cuentan los números de línea que contiene el archivo a procesar
     line = 1
     for word in read:
@@ -116,12 +175,18 @@ if __name__ == "__main__":
         pub_res.insert(0,"reseña")
         secciones.append(pub_res)
         
-    print(secciones)
+    for i in range(len(secciones)):
+        if i < (len(secciones)-1):
+            secciones[i].append(secciones[i+1][1])
+        else:
+            secciones[i].append(line-1)
+
+    # Se lee el primer componente de la lista de listas y se compara con las publicaciones a procesar
+    for i in range(len(secciones)):
+        if secciones[i][0] == 'articulos':
+            leeArticulo(arr,secciones[i][1:len(secciones[i])])
     
-    if len(secciones) > 1:
-        pass
-    else:
-        secciones.append(line)
+    
     
     #df.seek(12797)
     #read1 = df.readline()
