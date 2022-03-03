@@ -6,6 +6,8 @@ Created on Wed Feb 16 21:59:40 2022
 @author: rsheissa
 """
 
+import re
+
 # Este programa lee datos filtrados del apartado Producción Científica del CVU
 # Se extraen datos que serán registrados en la base de datos.
 # Serán guardados en una lista, que a su vez será vaciada en un archivo TXT para poder ser
@@ -23,6 +25,26 @@ def findline(word,arr1):
             line.append(i)
     
     return line
+
+def leePclave(arr1):
+    indices=[]
+    for i in range(len(arr1)):
+        if arr1[i] == "Palabra" and arr1[i+1] == "clave" and arr1[i+2] == "1":
+            indices.append(i+3)
+        if arr1[i] == "Palabra" and arr1[i+1] == "clave" and arr1[i+2] == "2":
+            indices.append(i+3)
+        if arr1[i] == "Palabra" and arr1[i+1] == "clave" and arr1[i+2] == "3":
+            indices.append(i+3)
+            return(indices)
+            
+def leeArea(arr1):
+    indices=[]
+    for i in range(len(arr1)):
+        if arr1[i] == "Área":
+            indices.append(i)
+        if arr1[i] == "Campo":
+            indices.append(i)
+        print(indices)
 
 # Función que procesa datos de artículos
 def leeArticulo(arr1,linDatos):
@@ -73,19 +95,48 @@ def leeArticulo(arr1,linDatos):
                     print(tempo1)
                 # Verifica número de revista y volumen
                 if tempo[0] == "Número":
-                    if tempo[4] != "" or tempo[4] != "null":
+                    if tempo[4] != "" and tempo[4] != "null":
                         print(tempo[4])
                     else:
                         print("N\A")
-                    if tempo[9] != "" or tempo[9] != "null":
+                    if tempo[9] != "" and tempo[9] != "null":
                         print(tempo[9])
                     else:
                         print("N\A")
+                # Verifica si tiene año de edición capturado
+                # También verifica si cuenta con año de publicación
                 if tempo[0] == "Año":
                     if tempo[3] == "Año":
                         print("N/A")
+                        print(tempo[6])
                     else:
                         print(tempo[3])
+                        print(tempo[7])
+                # Obtiene las palabras clave. En caso de no capturarse se
+                # registra como N/A
+                if tempo[0] == "Palabra":
+                    test1 = leePclave(tempo)
+                    if test1[0] != "" or test1[0] != "null":
+                        test2 = " ".join(tempo[test1[0]:test1[1]-3])
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                    if test1[1] != "" or test1[1] != "null":
+                        test2 = " ".join(tempo[test1[1]:test1[2]-3])
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                    if test1[2] != "" or test1[2] != "null":
+                        test2 = " ".join(tempo[test1[2]:])
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                if tempo[0] == "Área":
+                    leeArea(tempo)
+                    #test1 = ','.join(map(str,tempo))
+                    #test2=[]
+                    #test2 = re.sub(r"Palabra,[a-z]+,[0-9],", "", test1)
+                    #print(test1)
 
 
 if __name__ == "__main__":
