@@ -51,8 +51,8 @@ def lectura_linea(linea):
 
 if __name__ == "__main__":
     
-    datos1 = open("generales_filtrados.txt", "a")
-    with open("datos_generales.txt", "r", encoding='utf-8') as f:
+    datos1 = open("produccion_cientifica_filtrados.txt", "a")
+    with open("produccion_cientifica.txt", "r", encoding='utf-8') as f:
         for line in f:
             lectura_linea(line)
     #print("prueba")

@@ -219,6 +219,7 @@ Memorias
 Título de la memoria: 2014 IEEE 5th Latin American Symposium on Circuits and Systems
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: A fully symbolic homotopy-based memristor 
 Año de publicación: 2014 País: Chile
 Palabra clave 1: memristive systems Palabra clave 2: mem-elements Palabra clave 3: analog circuit design
 Áreas de conocimiento
@@ -234,6 +235,7 @@ Memorias
 Título de la memoria: 2016 IEEE International Symposium on Circuits and Systems (ISCAS)
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: Fast and robust homotopy path planning 
 Año de publicación: 2016 País: Canada
 Palabra clave 1: Homotopy continuation Palabra clave 2: mobile robotics Palabra clave 3: free-collision path
 Áreas de conocimiento
@@ -249,6 +251,7 @@ Memorias
 Título de la memoria: 2017 14th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: Homotopic path validation using non- 
 Año de publicación: 2017 País: México
 Palabra clave 1: Diferential drive robot Palabra clave 2: Homotopy Palabra clave 3: Mobile robot
 Áreas de conocimiento
@@ -263,6 +266,7 @@ Memorias
 Título de la memoria: 2018 IEEE 9th Latin American Symposium on Circuits & Systems (LASCAS)
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: Off-line route planner based on resistive grid 
 Año de publicación: 2018 País: México
 Palabra clave 1: Off-line Route Planning Palabra clave 2: Vehicle guidance Palabra clave 3: Non-linear Resistive Grid
 Áreas de conocimiento
@@ -280,6 +284,7 @@ Memorias
 Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: Comparison of Two Internal Miller 
 Año de publicación: 2019 País: México
 Palabra clave 1: Regulators Palabra clave 2: Capacitance Palabra clave 3: Logic gates
 Áreas de conocimiento
@@ -296,6 +301,7 @@ Memorias
 Título de la memoria: 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
 Título de la obra:
 Autor de la obra: NO APLICA NO APLICA NO APLICA
+Título de la publicación: A Tool to Solve Nonlinear Algebraic 
 Año de publicación: 2019 País: México
 Palabra clave 1: Mathematical model Palabra clave 2: Homotopy Palabra clave 3: NAES
 Áreas de conocimiento
