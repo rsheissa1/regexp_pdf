@@ -31,7 +31,7 @@ linea_14a = "Distinciones no CONACYT Legunas indígenas"
 
 def filtraTexto(archNom):
     
-    filtrado = archNom.split(".")[0] + "_filtrado.txt"
+    filtrado = archNom.split(".")[0] + "_proc.txt"
     filt1 = open(filtrado, "w")
 
     with open(archNom, "r", encoding='utf-8') as f:

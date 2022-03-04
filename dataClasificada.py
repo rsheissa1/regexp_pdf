@@ -47,25 +47,30 @@ def procSec(archLec):
         
     # Busca la línea donde se encuentra la sección Datos generales
     dg = findline("Datos generales")
-    print(f"dg = {dg} \n")
+#    print(f"dg = {dg} \n")
     # Busca la línea donde se encuentra la sección Formación académica
     fa = findline("Formación académica")
-    print(f"fa = {fa} \n")
+#    print(f"fa = {fa} \n")
     # Busca la línea donde se encuentra la sección Trayectoria profesional
     tp = findline("Trayectoria profesional")
-    print(f"tp = {tp} \n")
+#    print(f"tp = {tp} \n")
     # Busca la línea donde se encuentra la sección Producción científica, tecnológica y de innovación
     pc = findline("Producción científica, tecnológica y de innovación")
-    print(f"pc = {pc} \n")
+#    print(f"pc = {pc} \n")
     # Busca la línea donde se encuentra la sección Formación de capital humano
     fc = findline("Formación de capital humano")
-    print(f"fc = {fc} \n")
+#    print(f"fc = {fc} \n")
     # Busca la línea donde se encuentra la sección Lenguas e idiomas
     li = findline("Lenguas e idiomas")
-    print(f"li = {li} \n")
+#    print(f"li = {li} \n")
+    
+    # Se crea una lista para guardar los nombres de los archivos
+    # esto supone facilitar el seguimiento de los datos a procesar
+    listArch = []
     
     # Datos generales se guardan en el archivo correspondiente
     datGen = procesado + "_dg.txt"
+    listArch.append(datGen)
     dg1 = open(datGen, "w")
     for i in arr[dg:(fa-1)]:
         dg1.write(i)
@@ -73,6 +78,7 @@ def procSec(archLec):
     
     # Formación académica se guadan en el archivo correspondiente
     forAc = procesado + "_fa.txt"
+    listArch.append(forAc)
     fa1 = open(forAc, "w")
     for i in arr[fa:(tp-1)]:
         fa1.write(i)
@@ -80,6 +86,7 @@ def procSec(archLec):
     
     # Trayectoria profesional se guarda en el archivo correspondiente
     trayPro = procesado + "_tp.txt"
+    listArch.append(trayPro)
     tp1 = open(trayPro, "w")
     for i in arr[tp:(pc-1)]:
         tp1.write(i)
@@ -87,6 +94,7 @@ def procSec(archLec):
     
     # Producción científica se guarda en el archivo correspondiente
     prodCien = procesado + "_pc.txt"
+    listArch.append(prodCien)
     pc1 = open(prodCien, "w")
     for i in arr[pc:(fc-1)]:
         pc1.write(i)
@@ -94,6 +102,7 @@ def procSec(archLec):
     
     # Formación de capital humano se guarda en el archivo correspondiente
     capHum = procesado + "_ch.txt"
+    listArch.append(capHum)
     fc1 = open(capHum, "w")
     for i in arr[fc:(li-1)]:
         fc1.write(i)
@@ -101,6 +110,7 @@ def procSec(archLec):
     
     # Lenguas e idiomas se guardan en el archivo correspondiente
     lengIdiom = procesado + "_li.txt"
+    listArch.append(lengIdiom)
     li1 = open(lengIdiom, "w")
     for i in arr[li:]:
         li1.write(i)
@@ -109,3 +119,5 @@ def procSec(archLec):
     print()
     
     df.close()
+    
+    return listArch
