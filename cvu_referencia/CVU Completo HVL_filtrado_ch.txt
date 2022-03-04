@@ -1,0 +1,969 @@
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Técnicas de Simulación
+Fecha inicio: 02/feb/2012 Fecha fin: 02/jun/2012 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Proyecto de Intervención I
+Fecha inicio: 02/feb/2012 Fecha fin: 20/jul/2012 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Propedéutico - Métodos Matemáticos
+Fecha inicio: 01/jun/2013 Fecha fin: 15/jun/2013 Horas totales: 10
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Señales y Sistemas
+Fecha inicio: 02/ago/2013 Fecha fin: 30/ene/2014 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Técnicas de Simulación
+Fecha inicio: 02/feb/2014 Fecha fin: 25/jul/2014 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Propedéutico - Métodos Matemáticos
+Fecha inicio: 01/jun/2014 Fecha fin: 15/jun/2014 Horas totales: 10
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: CAD para Electrónica
+Fecha inicio: 02/ago/2014 Fecha fin: 30/ene/2015 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Proyecto de Intervención I
+Fecha inicio: 02/ago/2014 Fecha fin: 30/ene/2015 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Optativa II
+Fecha inicio: 04/ago/2015 Fecha fin: 29/ene/2016 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Señales y Sistemas
+Fecha inicio: 04/ago/2015 Fecha fin: 29/ene/2016 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Formación disciplinar I
+Fecha inicio: 02/feb/2016 Fecha fin: 15/jul/2016 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Formación disciplinar IV
+Fecha inicio: 02/feb/2016 Fecha fin: 15/jul/2016 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Proyecto de intervención I
+Fecha inicio: 02/ago/2016 Fecha fin: 27/ene/2017 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: CAD para electrónica
+Fecha inicio: 02/ago/2016 Fecha fin: 27/ene/2017 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Proyecto de Intervención II
+Fecha inicio: 01/feb/2017 Fecha fin: 21/jul/2017 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Formación disciplinar II
+Fecha inicio: 01/feb/2017 Fecha fin: 21/jul/2017 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Optativa II
+Fecha inicio: 01/ago/2017 Fecha fin: 26/ene/2018 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Proyecto de Intervención I
+Fecha inicio: 01/ago/2017 Fecha fin: 26/ene/2018 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: null
+Nombre del curso o asignatura: Cómputo Científico
+Fecha inicio: 01/ago/2018 Fecha fin: 25/ene/2019 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Tópicos avanzados en modelado y simulación
+Fecha inicio: 01/feb/2019 Fecha fin: 26/jul/2019 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
+Nombre del curso o asignatura: Seminario de Investigación I
+Fecha inicio: 01/feb/2019 Fecha fin: 19/jul/2019 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en CACEI)
+Nombre del curso o asignatura: Ecuaciones diferenciales
+Fecha inicio: 02/feb/2011 Fecha fin: 15/jul/2011 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Dibujo de Ingeniería
+Fecha inicio: 02/feb/2011 Fecha fin: 22/jul/2011 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Taller de Métodos Numéricos
+Fecha inicio: 06/ago/2011 Fecha fin: 30/ene/2012 Horas totales: 30
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Métodos numéricos
+Fecha inicio: 08/ago/2011 Fecha fin: 31/ene/2012 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Cálculo Multivariable
+Fecha inicio: 08/ago/2011 Fecha fin: 31/ene/2012 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: ECUACIONES DIFERENCIALES
+Fecha inicio: 02/feb/2012 Fecha fin: 20/jul/2012 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Dibujo de ingeniería
+Fecha inicio: 02/feb/2012 Fecha fin: 13/jul/2012 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: METODOS NUMERICOS
+Fecha inicio: 02/ago/2012 Fecha fin: 30/ene/2013 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: CALCULO MULTIVARIABLE
+Fecha inicio: 02/ago/2012 Fecha fin: 30/ene/2013 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: INSTRUMENTACION DE VARIABLES GEOFISICAS
+Fecha inicio: 02/feb/2013 Fecha fin: 02/jun/2013 Horas totales: 120
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Dibujo de Ingeniería
+Fecha inicio: 02/feb/2013 Fecha fin: 12/jul/2013 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: CAD PARA CIRCUITOS INTEGRADOS
+Fecha inicio: 02/ago/2013 Fecha fin: 30/ene/2014 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: METODOS NUMERICOS
+Fecha inicio: 02/ago/2013 Fecha fin: 30/ene/2014 Horas totales: 60
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: DIBUJO DE INGENIERIA
+Fecha inicio: 02/feb/2014 Fecha fin: 11/jul/2014 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: TECNICAS DE SIMULACION
+Fecha inicio: 02/feb/2014 Fecha fin: 02/jun/2014 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: INGENIERIA EN INSTRUMENTACION ELECTRONICA (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: CAD PARA CIRCUITOS INTEGRADOS
+Fecha inicio: 02/ago/2014 Fecha fin: 30/ene/2015 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Eectrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Dibujo de Ingeniería
+Fecha inicio: 03/feb/2015 Fecha fin: 11/jul/2015 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica
+Nombre del curso o asignatura: Tópicos avanzados del INEL II
+Fecha inicio: 04/ago/2015 Fecha fin: 29/ene/2016 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Dibujo de Ingeniería
+Fecha inicio: 02/feb/2016 Fecha fin: 17/jun/2016 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Tópicos avanzados de instrumentación electrónica: CAD para circuitos integrados
+Fecha inicio: 02/ago/2016 Fecha fin: 27/ene/2017 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica
+Nombre del curso o asignatura: Dibujo de Ingeniería
+Fecha inicio: 01/feb/2017 Fecha fin: 21/jul/2017 Horas totales: 45
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Tópicos avanzados de instrumentación electrónica: CAD para circuitos integrados
+Fecha inicio: 01/ago/2017 Fecha fin: 26/ene/2018 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Tópicos avanzados de INEL II
+Fecha inicio: 01/ago/2018 Fecha fin: 25/ene/2019 Horas totales: 75
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Nombre del programa: Ingeniería en Instrumentación Electrónica (Licenciatura acreditada en el CACEI)
+Nombre del curso o asignatura: Tópicos avanzados en instrumentación electrónica IV
+Fecha inicio: 01/feb/2019 Fecha fin: 26/jul/2019 Horas totales: 90
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Implementación en un robot Pioneer 3-DX una técnica homotópica de trazado de trayectorias libres de colisión
+Nombre del autor
+Nombre: Damián Darío López Hernández
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 09/dic/2013 Fecha de obtención de grado: 30/ene/2014
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA
+Título de la tésis:
+Implementación en múltiples plataformas de técnica esférica de trazado de trayectorias homotópicas libres de colisión.
+Nombre del autor
+Nombre: Gerardo Ulises Díaz Arango
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 02/jun/2014 Fecha de obtención de grado: 04/jul/2014
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA
+Título de la tésis:
+Development of a simulation methodology for circuits with memristors
+Nombre del autor
+Nombre: Carlos Manuel Hernández Mejía
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 07/ene/2015 Fecha de obtención de grado: 19/feb/2015
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA
+Título de la tésis:
+Modified method of hyperspheres: tracing homotopic bounded paths in nonlinear circuits
+Nombre del autor
+Nombre: Delia Torres Muñoz
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 20/jul/2012 Fecha de obtención de grado: 21/ago/2015
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Arquitectura Digital para una aproximación PWL de la función tangente hiperbólica
+Nombre del autor
+Nombre: Rogelio Alejandro Callejas Molina
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 07/dic/2015 Fecha de obtención de grado: 29/ene/2016
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Explorando el uso de circuitos no lineales para modelar mapas viales y calcular rutas
+Nombre del autor
+Nombre: Roberto Ruiz Gómez
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 25/nov/2016 Fecha de obtención de grado: 20/ene/2017
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Implementación y caracterización de filtros activos Chebyshev con retardo de grupo mejorado
+Nombre del autor
+Nombre: Napoleón Velasco Hernández
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 09/dic/2016 Fecha de obtención de grado: 31/ene/2017
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Diseño de filtros
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+DISEÑO DE CIRCUITOS NANOMÉTRICOS ROBUSTOS A VARIACIONES DE PROCESO MEDIANTE TÉCNICAS DE HOMOTOPÍA
+Nombre del autor
+Nombre: Gilberto Domínguez Rodríguez
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 11/nov/2017 Fecha de obtención de grado: 07/dic/2017
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Planeación de trayectorias Homotópicas Libres de Colisión para brazos Robóticos
+Nombre del autor
+Nombre: Gerardo César Vélez López
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 06/nov/2017 Fecha de obtención de grado: 14/dic/2017
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Implementación en Sistema Embebido del Método de Homotopía para Planeación de Trayectorias Libres de Colisión con Aplicación a un Robot Pioneer 3-XD
+Nombre del autor
+Nombre: Raciel Alejandro Montejo Martínez
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 09/dic/2017 Fecha de obtención de grado: 30/ene/2018
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Diseño y Caracterización de un Amplificador de Fibra Dopada con Erbio
+Nombre del autor
+Nombre: Sharon Iraís Jiménez Reyes
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 18/may/2018 Fecha de obtención de grado: 09/jul/2018
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Dispositivos fotoeléctricos
+Tesis - Programas PNPC
+Institución: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA
+Título de la tésis:
+Robotic motion path generation method based on homotopy continuation for multidimensional workspaces
+Nombre del autor
+Nombre: Gerardo Ulises Díaz Arango
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 12/may/2018 Fecha de obtención de grado: 13/jul/2018
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Representación y Construcción de Superficies Tridimensionales Usando el Modelo HLCPWL y el Sensor Kinect V1 Modelo 1414
+Nombre del autor
+Nombre: Juan Manuel Sevilla Ángel
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 18/may/2018 Fecha de obtención de grado: 20/jul/2018
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Optimización de trayectorias libres de colisiones para robots móviles utilizando una técnica de suavizamiento local lineal a tramos
+Nombre del autor
+Nombre: José Alfredo Martínez Melchor
+Estado de la tésis: Terminada País: México
+Fecha de aprobación: 03/jul/2018 Fecha de obtención de grado: 18/ago/2018
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Experimento de Transferencia Inalámbrica de Energía con Receptor Portable
+Nombre del autor
+Nombre: Miguel Ángel Pitol Reyes Pitol Reyes
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 15/oct/2013 Fecha de obtención de grado: 22/nov/2013 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electromagnetismo Subdisciplina: Electricidad
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Experimento de Transferencia Inalámbrica de Energía con Receptor Portable
+Nombre del autor
+Nombre: Alejandro Javier Sánchez Arreguín
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 15/oct/2013 Fecha de obtención de grado: 22/nov/2013 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electromagnetismo Subdisciplina: Electricidad
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Homotopía Aplicada al Análisis de Circuitos con Dispositivos Modelados por Piecewise Linear
+Nombre del autor
+Nombre: Alejandro Ramírez Piñero
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 04/feb/2014 Fecha de obtención de grado: 07/mar/2014 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Semáforo de Eventos
+Nombre del autor
+Nombre: Fernando Cuevas López
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 28/abr/2014 Fecha de obtención de grado: 28/abr/2014 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Revisión del estado del arte de las técnicas de transferencia inalámbrica de energía
+Nombre del autor
+Nombre: Yeni Mariam Hernández Hernández
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 13/may/2014 Fecha de obtención de grado: 27/jun/2014 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Tarjeta de Adquisición para Vocalizaciones de Ratas
+Nombre del autor
+Nombre: Freddy Hernández Becerra
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 06/may/2014 Fecha de obtención de grado: 27/jun/2014 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Implementación de circuitos caóticos CE. Sistema de comunicación utilizando circuito de Chua
+Nombre del autor
+Nombre: José Alfredo Martínez Melchor
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 01/abr/2015 Fecha de obtención de grado: 08/may/2015 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Diseño de circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Homotopía Aplicada a la prueba de Circuitos Integrados Analógicos en la búsqueda de Fallas de Fabricación
+Nombre del autor
+Nombre: Gonzalo Vázquez Martínez
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 04/may/2015 Fecha de obtención de grado: 20/jun/2015 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Explorando el Uso de Placas de baquelita para Trasmitir de Manera Inalámbrica
+Nombre del autor
+Nombre: Augusto Pérez Gaspar
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 20/may/2016 Fecha de obtención de grado: 07/jul/2016 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Explorando el Uso de Placas de baquelita para Trasmitir de Manera Inalámbrica
+Nombre del autor
+Nombre: Ahdir Ardarel Ramirez Luna
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 20/may/2016 Fecha de obtención de grado: 07/jul/2016 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Síntesis de Filtros Analógicos CHEBYSHEV Utilizando Resistencias Negativas Dependientes de Frecuencia
+Nombre del autor
+Nombre: José Enrique Guerrero Mendoza
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 09/may/2017 Fecha de obtención de grado: 09/jun/2017 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Diseño de filtros
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD DE XALAPA, A.C.
+Título de la tésis:
+Métodos aproximativos de solución para ecuaciones diferenciales no lineales
+Nombre del autor
+Nombre: Mario Alberto Sandoval Hernandez
+Estado de la tésis: Terminada Grado académico de la tésis: Doctorado
+Fecha de aprobación: 07/abr/2017 Fecha de obtención de grado: 15/jun/2017 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Distribución de Contenidos de Televisión en Protocolos de Red
+Nombre del autor
+Nombre: Alejandra Soriano Beristáin
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 19/may/2017 Fecha de obtención de grado: 30/jun/2017 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Otras
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Modelado y Simulación de redes resistivas para la planeación de rutas libres de colisión en sistemas robóticos
+Nombre del autor
+Nombre: Jesús Alfonso Sánchez González
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 23/jun/2017 Fecha de obtención de grado: 24/ago/2017 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD VERACRUZANA
+Título de la tésis:
+Uso de la percepción remota en apoyo a proyectos gubernamentales y de educación superior en el Estado de Veracruz
+Nombre del autor
+Nombre: Iván Ríos Hernández
+Estado de la tésis: Terminada Grado académico de la tésis: Licenciatura
+Fecha de aprobación: 30/jun/2017 Fecha de obtención de grado: 25/ago/2017 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Otras
+Tesis - Programas No PNPC
+Institución: UNIVERSIDAD POPULAR AUTONOMA DE VERACRUZ
+Título de la tésis:
+Simulación del Volumen de Agua Generado por Eventos de Precipitación en Cuencas Hidrológicas Veracruzanas y Escenarios de Cambio Climático
+Nombre del autor
+Nombre: Claudio Hoyos Reyes
+Estado de la tésis: Terminada Grado académico de la tésis: Doctorado
+Fecha de aprobación: 10/ene/2018 Fecha de obtención de grado: 10/feb/2018 País: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Participación en congresos
+Nombre del congreso: International Symposium on Circuits and Systems
+Título del trabajo: CONSECUENCE OF COUPLED VARIABLES IN THE HOMOTOPIC SIMULATION OF BJT CIRCUITS
+Título de participación congreso: Presentación de artículo en extenso
+Fecha: 01/ene/2002 País: México
+Palabra clave 1: COUPLED VARIABLES Palabra clave 2: HOMOTOPY Palabra clave 2: CIRCUITS
+Colaboradores
+Nombre: VAZQUEZ-LEAL HECTOR
+Sexo:
+Nombre: HERNANDEZ-MARTINEZ
+Sexo:
+Nombre: LUIS
+Sexo:
+Nombre: SARMIENTO-REYES
+Sexo:
+Nombre: ARTURO
+Sexo:
+Nombre: MURPHY-ARTEGA
+Sexo:
+Nombre: R.S
+Sexo:
+Participación en congresos
+Nombre del congreso: International Conference on Communications, Circuits and Systems
+Título del trabajo: NUMERICAL CONTINUATION SCHEME FOR TRACING THE DOUBLE BOUNDED HOMOTOPY FOR ANALYSING NONLINEAR
+Título de participación congreso: Presentación de artículo en extenso
+Fecha: 01/ene/2005 País: México
+Palabra clave 1: NUMERICAL Palabra clave 2: HOMOTOPY Palabra clave 2: CIRCUITS
+Colaboradores
+Nombre: VAZQUEZ-LEAL HECTOR
+Sexo:
+Nombre: HENANDEZ-MARTINEZ
+Sexo:
+Nombre: LUIS
+Sexo:
+Nombre: SARMIENTO-REYES
+Sexo:
+Nombre: ARTURO
+Sexo:
+Nombre: CASTANEDA-SHEISSA ROBERTO
+Sexo:
+Divulgación
+Título del trabajo: LINEAS DE INVESTIGACION EN EL AREA DE ELECTRONICA DEL INAOE
+Tipo de participación: Conferencia Tipo de evento:
+Institución organizadora: nullnull
+Dirigido a: Sector estudiantil Fecha: 25/sep/2006
+Tipo divulgación y difusión: Nacional País:
+Tipo de medio:
+Palabra clave 1: ELECTRONICA Palabra clave 2: OPTICA Palabra clave 2: ASTROFISICA
+Notas periodísticas:
+null
+Productos
+Divulgación
+Título del trabajo: TECNICAS DE SIMULACION DE CIRCUITOS INTEGRADOS Y FUTURO DEL SOFTWARE EMBEBIDO
+Tipo de participación: Conferencia Tipo de evento:
+Institución organizadora: nullnull
+Dirigido a: Sector estudiantil Fecha: 22/may/2008
+Tipo divulgación y difusión: Nacional País:
+Tipo de medio:
+Palabra clave 1: HOMOTOPIA Palabra clave 2: SOFTWARE EMBEBIDO Palabra clave 2:
+Notas periodísticas:
+DIARIO MARTINENZE
+Productos
+Divulgación
+MEJORANDO LA SIMULACIÓN HOMOTÓPICA DE CIRCUITOS INTEGRADOS MEDIANTE EL DISEÑO DE UNA TÉCNICA RÁPIDA DE TRAZADO DE
+Título del trabajo:
+TRAYECTORIAS
+Tipo de participación: Conferencia Tipo de evento:
+Institución organizadora: nullnull
+Dirigido a: Sector estudiantil Fecha: 09/sep/2011
+Tipo divulgación y difusión: Nacional País:
+Tipo de medio:
+Palabra clave 1: HOMOTOPIA Palabra clave 2: CIRCUITOS INTEGRADOS Palabra clave 2: TECNICAS DE SIMULACION
+Notas periodísticas:
+null
+Productos
+Divulgación
+Título del trabajo: TÉCNICAS MODERNAS DE MODELADO Y SIMULACIÓN
+Tipo de participación: Conferencia Tipo de evento:
+Institución organizadora: nullnull
+Dirigido a: Sector estudiantil Fecha: 03/feb/2012
+Tipo divulgación y difusión: Nacional País:
+Tipo de medio:
+Palabra clave 1: PERTURBACION Palabra clave 2: METODOS APROXIMATIVOS Palabra clave 2: MODELADO
+Notas periodísticas:
+null
+Productos
+Proyectos de investigación
+Nombre del proyecto: SIMULACIÓN HOMOTÓPICA DE CIRCUITOS INTEGRADOS, MONTO APROBADO: $487,973.00
+Tipo de proyecto: Investigación
+Inicio: 01/feb/2011 Fin: 30/abr/2012
+Institución:
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: DR. HECTOR VAZQUEZ LEAL
+Sexo:
+Nombre: DR. ROBERTO CASTAÑEDA SHEISSA
+Sexo:
+Nombre: DR. FRANCISCO JAVIER GONZALES MARTÍNEZ
+Sexo:
+Nombre: DR. AGUSTÍN GALLARDO DEL ÁNGEL
+Sexo:
+Nombre: DR. ARTURO SARMIENTO REYES
+Sexo:
+Nombre: DR. LUIS HERNÁNDEZ MARTÍNEZ
+Sexo:
+Nombre: DR. ALEJANDRO DÍAZ SÁNCHEZ
+Sexo:
+Proyectos de investigación
+Nombre del proyecto: IMPLEMENTACION DE SENSORES EN TECNOLOGIAS MEMS Y MOSFET PARA APLICACIONES DE FISIOLOGIA Y BIOMEDICINA
+Tipo de proyecto: Investigación
+Inicio: 05/may/2013 Fin: 28/may/2014
+Institución:
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: CUERPO ACADEMICO UV-CA-248
+Sexo:
+Nombre: CUERPO ACADEMICO UGTO-CA-26
+Sexo:
+Nombre: CUERPO ACADEMICO BUAP-CA-119
+Sexo:
+Nombre: CUERPO ACADEMICO UACJ-CA-69
+Sexo:
+Nombre: UV-CA-296
+Sexo:
+Nombre: EDMUNDO GUTIERREZ DOMINGUEZ (INAOE)
+Sexo:
+Proyectos de investigación
+Nombre del proyecto: DISEÑO DE UN CIRCUITO HOMOTÓPICO INTERCONSTRUIDO PARA LA AUTO-VERIFICACIÓN DE CIRCUITOS INTEGRADOS ANALÓGICOS
+Tipo de proyecto: Investigación
+Inicio: 15/feb/2012 Fin: 06/feb/2015
+Institución:
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: ALEJANDRO RAMÍREZ PIÑERO
+Sexo:
+Nombre: GONZALO VÁZQUEZ MARTÍNEZ
+Sexo:
+Nombre: HECTOR VAZQUEZ LEAL
+Sexo:
+Nombre: ROBERTO CASTAÑEDA SHEISSA
+Sexo:
+Nombre: ARTURO SARMIENTO REYES
+Sexo:
+Proyectos de investigación
+Nombre del proyecto: DISEÑO DE UN CIRCUITO HOMOTÓPICO INTERCONSTRUIDO PARA LA AUTO-VERIFICACIÓN DE CIRCUITOS INTEGRADOS ANALÓGICOS,
+Tipo de proyecto: Investigación
+Inicio: 15/feb/2012 Fin: 14/feb/2015
+Institución:
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: 3 BECARIOS POR DEFINIRSE
+Sexo:
+Nombre: DR. HECTOR VAZQUEZ LEAL
+Sexo:
+Nombre: DR. VÍCTOR M. JIMÉNEZ FERNÁNDEZ
+Sexo:
+Nombre: DR. AGUSTÍN GALLARDO DEL ÁNGEL
+Sexo:
+Nombre: DR. ROBERTO CASTAÑEDA SHEISSA
+Sexo:
+Nombre: DR. ARTURO SARMIENTO REYES
+Sexo:
+Grupos de investigación
+Nombre del grupo: MODELADO Y SIMULACION DE SISTEMAS
+Fecha de creación: 01/feb/2011 Fecha de ingreso: 01/feb/2011
+Responsable / líder de la red
+Nombre: HECTOR VAZQUEZ LEAL
+Institución adscripción del responsable del grupo: UNIVERSIDAD VERACRUZANA
+Total de investigadores: 3
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Ciencia de los ordenadores Subdisciplina: Simulación
+Colaboradores
+Nombre: JESUS HUERTA CHUA
+Sexo: Masculino
+Nombre: MARIO SANDOVAL HERNANDEZ
+Sexo: Masculino
+Nombre: CARLOS HERNANDEZQ MEJIA
+Sexo: Masculino
+Nombre: AGUSTIN HERRERA MAY
+Sexo: Masculino
+Nombre: ROBERTO CASTAÑEDA SHEISSA
+Sexo: Masculino
+Nombre: DELIA TORRES MUÑOS
+Sexo: Femenino
+Nombre: MARIO GONZALEZ LEE
+Sexo: Masculino
+Nombre: VICTOR JIMENEZ FERNANDEZ
+Sexo: Masculino
+Nombre: URIEL FILOBELLO NIÑO
+Sexo: Masculino
+Grupos de investigación
+Nombre del grupo: GRUPO INTERNACIONAL DE MODELADO Y SIMULACION
+Fecha de creación: 05/sep/2011 Fecha de ingreso: 06/sep/2011
+Responsable / líder de la red
+Nombre: HECTOR VAZQUEZ leal
+Institución adscripción del responsable del grupo: UNIVERSIDAD VERACRUZANA
+Total de investigadores: 11
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Matemáticas
+Disciplina: Análisis numérico Subdisciplina: Ecuaciones diferenciales ordinarias
+Colaboradores
+Nombre: HECTOR VAZQUEZ LEAL
+Sexo:
+Nombre: HUSEYIN KOCAK
+Sexo:
+Nombre: AHMET YILDIRIM
+Sexo:
+Nombre: YASIR KHAN
+Sexo:
+Nombre: HAMED DAEI KASMAEI
+Sexo:
+Nombre: KAREM Boubaker
+Sexo: Masculino
+Nombre: Brahim Benhammouda
+Sexo: Masculino
+Nombre: francisco guerrero
+Sexo: Masculino
+Nombre: J Rashidinia
+Sexo: Masculino
+Nombre: M.M Rashidi
+Sexo: Masculino
+Nombre: H.M. Sedighi
+Sexo: Masculino
+Grupos de investigación
+Nombre del grupo: CUERPO ACADEMICO DISEÑO ELECTRONICO, ESTATUS: EN CONSOLIDACION
+Fecha de creación: 12/ago/2009 Fecha de ingreso: null
+Responsable / líder de la red
+Nombre: null
+Institución adscripción del responsable del grupo:
+Total de investigadores: null
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: FRANCISCO JAVIER GONZALEZ MART
+Sexo:
+Nombre: ROBERTO CASTAÑEDA SHEISSA
+Sexo:
+Nombre: VICTOR JIMENEZ PEREZ
+Sexo:
+Nombre: FRANCISCO JAVIER GONZALEZ MARTINEZ
+Sexo:
+Nombre: JESUS SANCHEZ OREA
+Sexo:
+Nombre: AGUSTIN GALLARDO DEL ANGEL
+Sexo:
+Nombre: URIEL FILOBELLO NIÑO
+Sexo:
+Grupos de investigación
+Nombre del grupo: CAD UV-INAOE
+Fecha de creación: 04/ene/2010 Fecha de ingreso: null
+Responsable / líder de la red
+Nombre: null
+Institución adscripción del responsable del grupo:
+Total de investigadores: null
+Áreas de conocimiento
+Área: Campo:
+Disciplina: Subdisciplina:
+Colaboradores
+Nombre: HECTOR VAZQUEZ LEAL
+Sexo:
+Nombre: LUIS HERNANDEZ MARTINEZ
+Sexo:
+Nombre: ARTURO SARMIENTO-REYES
+Sexo:
+Nombre: URIEL FILOBELLO NIÑO
+Sexo: Masculino
+Nombre de la distinción: Miembro regular de la academia mexicana de ciencias
+Institución que otorgó premio o distinción: ACADEMIA MEXICANA DE CIENCIAS, A.C.
+Año: 2016 País: México

@@ -1,0 +1,33 @@
+Grados académicos
+Título: INGENIERO EN INSTRUMENTACION ELECTRONICA
+Nivel de escolaridad: Licenciatura Estatus: Grado obtenido
+Cédula profesional: 3450464 Opciones de titulación: Tesis
+Título de tesis: TITULACION POR CREDITOS DE MAESTRIA
+Fecha de obtención: 09/abr/2001
+Institución de obtención de grado: UNIVERSIDAD VERACRUZANA
+País de obtención de grado: México
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería electrónica Subdisciplina: Instrumentación
+Grados académicos
+Título: MAESTRÍA EN CIENCIAS CON ESPECIALIDAD EN ELECTRÓNICA
+Nivel de escolaridad: Maestría Estatus: Grado obtenido
+Cédula profesional: 5690062 Opciones de titulación: Tesis
+Título de tesis: Reordenamiento de las ecuaciones que emanan de circuitos no lineales para acelerar la simulación homotópica
+Fecha de obtención: 09/may/2001
+Institución de obtención de grado: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA (INAOE)
+País de obtención de grado: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos
+Grados académicos
+Título: DOCTORADO EN CIENCIAS CON ESPECIALIDAD EN ELECTRÓNICA EN EL INSTITUTO NACIONAL DE ASTROFÍSICA, ÓPTICA, Y ELECTRÓNICA
+Nivel de escolaridad: Doctorado Estatus: Grado obtenido
+Cédula profesional: 5690064 Opciones de titulación: Tesis
+Título de tesis: Homotopía Doblemente Acotada aplicada al análisis de circuitos no lineales
+Fecha de obtención: 07/oct/2005
+Institución de obtención de grado: INSTITUTO NACIONAL DE ASTROFISICA OPTICA Y ELECTRONICA (INAOE)
+País de obtención de grado: México
+Áreas de conocimiento
+Área: Ciencias físico matemáticas y ciencias de la tierra Campo: Física
+Disciplina: Electrónica Subdisciplina: Circuitos

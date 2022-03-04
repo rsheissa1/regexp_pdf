@@ -9,7 +9,9 @@ Created on Fri Mar  4 01:21:29 2022
 import os # Módulo del OS
 import pdfValido # Módulo creado para validad un PDF CONACYT
 import convPDF # Módulo para convertir PDF a TXT
-import filtTxt # Módulo para remover datos no útiles
+#import filtTxt # Módulo para remover datos no útiles
+import borraLin # Módulo para filtrar datos
+import dataClasificada # Módulo para guardar secciones del CVU en archivo
 
 
 # El objetivo de este programa es leer un archivo en formato PDF, leer la información contenida en él,
@@ -43,7 +45,8 @@ if __name__ == "__main__":
                     next
                 else:
                     archTxt = convPDF.cambiaPDF(procArch, nombArch)
-                    archFilt = filtTxt.filtraTexto(archTxt)
+                    archFilt = borraLin.filtraTexto(archTxt)
+                    dataClasificada.procSec(archFilt)
             else:
                 print(f"El archivo {file} está dañado o no es válido")
                 next

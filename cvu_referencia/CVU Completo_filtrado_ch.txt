@@ -1,0 +1,8 @@
+Docencia - Programas no PNPC
+Institución: UNIVERSIDAD INTERAMERICANA, A.C.
+Nombre del programa: Automatización Industrial en Manufactura Digital y Robótica
+Nombre del curso o asignatura: Automatas programables
+Fecha inicio: 20/sep/2019 Fecha fin: 01/nov/2019 Horas totales: 48
+Áreas de conocimiento
+Área: Ingeniería y tecnología Campo: Ingeniería
+Disciplina: Ingeniería electrónica Subdisciplina: Automatización y control
