@@ -26,8 +26,11 @@ def findline(word,arr1):
     
     return line
 
+# Función que encuentra la posición de palabras clave.
+# Retorna una lista con las posiciones deseadas, esto significa descartar dichas palabras
+# y así únicamente obtener los datos requeridos.
 def leePclave(arr1):
-    indices=[]
+    indices = []
     for i in range(len(arr1)):
         if arr1[i] == "Palabra" and arr1[i+1] == "clave" and arr1[i+2] == "1":
             indices.append(i+3)
@@ -36,15 +39,28 @@ def leePclave(arr1):
         if arr1[i] == "Palabra" and arr1[i+1] == "clave" and arr1[i+2] == "3":
             indices.append(i+3)
             return(indices)
-            
+# Función que encuentra la posición de las palanras Área y Campo.
+# Retorna una lista de su poisición en la línea a procesar. Esto significa obtener
+# las palabras útiles para ser guardadas en la base de datos.
 def leeArea(arr1):
-    indices=[]
+    indices = []
     for i in range(len(arr1)):
         if arr1[i] == "Área":
             indices.append(i)
         if arr1[i] == "Campo":
             indices.append(i)
-        print(indices)
+            return(indices)
+
+# Similar a la función anterior. Encuentra la posición de las palabras Disciplina y Subdisciplina,
+# para ser descartadas y únicamente utilizar los datos útiles.            
+def leeDisciplina(arr1):
+    indices = []
+    for i in range(len(arr1)):
+        if arr1[i] == "Disciplina":
+            indices.append(i)
+        if arr1[i] == "Subdisciplina":
+            indices.append(i)
+            return(indices)
 
 # Función que procesa datos de artículos
 def leeArticulo(arr1,linDatos):
@@ -131,8 +147,45 @@ def leeArticulo(arr1,linDatos):
                     else:
                         test2 = "N/A"
                     print(test2)
+                # Obtiene la información sobre Área y Campo del artículo
                 if tempo[0] == "Área":
-                    leeArea(tempo)
+                    test1 = leeArea(tempo)
+                    test2 = ""
+                    if tempo[1] != "" or tempo[1] != "null":
+                        for i in range(test1[0]+1,test1[1]):
+                            test2 = test2 + " " + tempo[i]
+                        test2 = test2.strip()
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                    test2 = ""
+                    if tempo[test1[1]+1] != "" or tempo[test1[1]+1] != "null":
+                        for i in range(test1[1]+1,len(tempo)):
+                            test2 = test2 + " " + tempo[i]
+                        test2 = test2.strip()
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                # Obtiene información sobre Disciplina y Subdisciplina
+                if tempo[0] == "Disciplina":
+                    test1 = leeDisciplina(tempo)
+                    test2 = ""
+                    if tempo[1] != "" or tempo[1] != "null":
+                        for i in range(test1[0]+1,test1[1]):
+                            test2 = test2 + " " + tempo[i]
+                        test2 = test2.strip()
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                    test2 = ""
+                    if tempo[test1[1]+1] != "" or tempo[test1[1]+1] != "null":
+                        for i in range(test1[1]+1,len(tempo)):
+                            test2 = test2 + " " + tempo[i]
+                        test2 = test2.strip()
+                    else:
+                        test2 = "N/A"
+                    print(test2)
+                    
                     #test1 = ','.join(map(str,tempo))
                     #test2=[]
                     #test2 = re.sub(r"Palabra,[a-z]+,[0-9],", "", test1)
