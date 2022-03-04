@@ -13,6 +13,7 @@ import filtTxt # Módulo para remover datos no útiles
 import borraLin # Módulo para filtrar datos
 import dataClasificada # Módulo para guardar secciones del CVU en archivo
 import procDG # Módulo de procesamiento Datos Generales
+import procPub # Módulo de procesamiento Publicaciones
 
 
 # El objetivo de este programa es leer un archivo en formato PDF, leer la información contenida en él,
@@ -51,6 +52,7 @@ if __name__ == "__main__":
                     dgFilt = filtTxt.lectura_linea(archLista[0]) # Se filtran datos del archivo Datos Generales
                     procDG.procDatosGen(dgFilt)
                     pcFilt = filtTxt.lectura_linea(archLista[3]) # Se filtran datos del archivo Producción Científica
+                    procPub.procPublica(pcFilt)
             else:
                 print(f"El archivo {file} está dañado o no es válido")
                 next
