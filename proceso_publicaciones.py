@@ -61,6 +61,9 @@ def leeDisciplina(arr1):
         if arr1[i] == "Subdisciplina":
             indices.append(i)
             return(indices)
+            
+def leeCoatuores(arr1):
+    pass
 
 # Función que procesa datos de artículos
 def leeArticulo(arr1,linDatos):
@@ -81,33 +84,33 @@ def leeArticulo(arr1,linDatos):
                         print(tempo[5])
                 # Verifica que esté capturado el nombre de la revista
                 if tempo[0] == "Nombre":
-                    i = 1
-                    tempo1 = tempo[i]
-                    i = i + 1
-                    while i < len(tempo):
-                        tempo1 = tempo1 + " " + tempo[i]
-                        i = i + 1
+                    k = 1
+                    tempo1 = tempo[k]
+                    k = k + 1
+                    while k < len(tempo):
+                        tempo1 = tempo1 + " " + tempo[k]
+                        k = k + 1
                     print(tempo1)
                 # Verifica si está capturado el país de origen para la revista
                 if tempo[0] == "País":
                     if len(tempo) > 1:
-                        i = 1
-                        tempo1 = tempo[i]
-                        i = i + 1
-                        while i < len(tempo):
-                            tempo1 = tempo1 + " " + tempo[i]
-                            i = i + 1
+                        k = 1
+                        tempo1 = tempo[k]
+                        k = k + 1
+                        while k < len(tempo):
+                            tempo1 = tempo1 + " " + tempo[k]
+                            k = k + 1
                         print(tempo1)
                     else:
                         print("N/A")
                 # Verifica que tenga titulo del artículo capturado
                 if tempo[0] == "Título":
-                    i = 3
-                    tempo1 = tempo[i]
-                    i = i + 1
-                    while i < len(tempo):
-                        tempo1 = tempo1 + " "+ tempo[i]
-                        i = i+1
+                    k = 3
+                    tempo1 = tempo[k]
+                    k = k + 1
+                    while k < len(tempo):
+                        tempo1 = tempo1 + " "+ tempo[k]
+                        k = k + 1
                     print(tempo1)
                 # Verifica número de revista y volumen
                 if tempo[0] == "Número":
@@ -152,16 +155,16 @@ def leeArticulo(arr1,linDatos):
                     test1 = leeArea(tempo)
                     test2 = ""
                     if tempo[1] != "" or tempo[1] != "null":
-                        for i in range(test1[0]+1,test1[1]):
-                            test2 = test2 + " " + tempo[i]
+                        for k in range(test1[0]+1,test1[1]):
+                            test2 = test2 + " " + tempo[k]
                         test2 = test2.strip()
                     else:
                         test2 = "N/A"
                     print(test2)
                     test2 = ""
                     if tempo[test1[1]+1] != "" or tempo[test1[1]+1] != "null":
-                        for i in range(test1[1]+1,len(tempo)):
-                            test2 = test2 + " " + tempo[i]
+                        for k in range(test1[1]+1,len(tempo)):
+                            test2 = test2 + " " + tempo[k]
                         test2 = test2.strip()
                     else:
                         test2 = "N/A"
@@ -171,21 +174,26 @@ def leeArticulo(arr1,linDatos):
                     test1 = leeDisciplina(tempo)
                     test2 = ""
                     if tempo[1] != "" or tempo[1] != "null":
-                        for i in range(test1[0]+1,test1[1]):
-                            test2 = test2 + " " + tempo[i]
+                        for k in range(test1[0]+1,test1[1]):
+                            test2 = test2 + " " + tempo[k]
                         test2 = test2.strip()
                     else:
                         test2 = "N/A"
                     print(test2)
                     test2 = ""
                     if tempo[test1[1]+1] != "" or tempo[test1[1]+1] != "null":
-                        for i in range(test1[1]+1,len(tempo)):
-                            test2 = test2 + " " + tempo[i]
+                        for k in range(test1[1]+1,len(tempo)):
+                            test2 = test2 + " " + tempo[k]
                         test2 = test2.strip()
                     else:
                         test2 = "N/A"
                     print(test2)
-                    
+                if tempo[0] == "Coautor":
+                    for k in range(j+1,linDatos[i+1]):
+                        test1 = re.sub(r",[A-Z]+,[A-Z][a-z]+","",arr1[k])
+                        test1 = re.sub(r",null","",test1)
+                        test1 = test1.replace(",", " ")
+                        print(test1)
                     #test1 = ','.join(map(str,tempo))
                     #test2=[]
                     #test2 = re.sub(r"Palabra,[a-z]+,[0-9],", "", test1)
