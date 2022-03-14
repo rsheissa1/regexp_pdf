@@ -48,8 +48,17 @@ def procDatosGen(archLec):
         listaDatos.append(lineaPersonal[9])
         
     def lee_NumCVU(lineaCvu):
-        listaDatos.append(lineaCvu[2])
-        listaDatos.append(lineaCvu[4])
+        test1 = lineaCvu.index("CVU")
+        if test1 > 3:
+            test2 = ""
+            for k in range(2,test1):
+                test2 = test2 + " " + lineaCvu[k]
+                test2 = test2.strip()
+            listaDatos.append(test2)
+            listaDatos.append(lineaCvu[test1+1])
+        else:
+            listaDatos.append(lineaCvu[2])
+            listaDatos.append(lineaCvu[4])
     
     def lee_Orcid(lineaOrcid):
         listaDatos.append(lineaOrcid[2]+"://"+lineaOrcid[3]+"/"+lineaOrcid[4]+"-"+lineaOrcid[5]+"-"+lineaOrcid[6]+"-"+lineaOrcid[7])
@@ -95,7 +104,7 @@ def procDatosGen(archLec):
         #print(i)
     
     def lee_Asentamiento(lineaAsentamiento):
-        tempo1 = lineaAsentamiento[1] + "-"
+        tempo1 = lineaAsentamiento[1] + " -"
         for i in range(2,len(lineaAsentamiento)):
             tempo1 = tempo1 + " " + lineaAsentamiento[i]
         
@@ -112,9 +121,21 @@ def procDatosGen(archLec):
         if lineaExterior[4] != "":
             listaDatos.append(lineaExterior[4])
         
-        if lineaExterior[7] != "":
+        if lineaExterior[7] != "Número":
             listaDatos.append(lineaExterior[7])
+        else:
+            listaDatos.append('N/A')
         
+    def lee_Interior(lineaInterior):
+        if lineaInterior[4] != "Parte":
+            listaDatos.append(lineaInterior[4])
+        else:
+            listaDatos.append('N/A')
+        
+        if len(lineaInterior) > 6:
+            listaDatos.append(lineaInterior[7])
+        else:
+            listaDatos.append('N/A')
     
     listaDatos = []
     banderaVialidad = 0
@@ -155,7 +176,7 @@ def procDatosGen(archLec):
             # Revisa si existe el apartado Nombre de vialidad, si existe banderaVialidad = 1
             if lineaLista1[0] == "Nombre" and len(lineaLista1) > 1 and lineaLista1[2] == "vialidad" and banderaVialidad == 0:
                 banderaVialidad = 1
-                next
+                continue
             else:
                 if banderaVialidad == 1:
                     lee_Vialidad(lineaLista1)
@@ -163,6 +184,9 @@ def procDatosGen(archLec):
             # Revisa si existen datos del número exterior del domicilio
             if lineaLista1[0] == "Número" and lineaLista1[1] == "exterior":
                 lee_Exterior(lineaLista1)
+            # Revisa si el usuario viven en un domicilio con número interior
+            if lineaLista1[0] == "Número" and lineaLista1[1] == "interior":
+                lee_Interior(lineaLista1)
                 
     procesado = archLec.split(".")[0]
     archSal = procesado + "_db.txt"            

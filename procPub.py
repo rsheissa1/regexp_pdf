@@ -15,14 +15,15 @@ import re
 
 def procPublica(archLec):
 
+#    print(f"{archLec} \n")
     # Función que localiza la línea donde se encuentra la palabra deseada
     def findline(word,arr1):
-        #print(f"arr length: {len(arr1)}")
+#        print(f"arr length: {len(arr1)}")
         line = []
         for i in range(len(arr1)):
-            #print(f"{arr1[i]}")
+#            print(f"{arr1[i]}")
             if word in arr1[i]:
-                #print(f"line {i+1}, ")
+#                print(f"line {i+1}, ")
                 line.append(i)
         
         return line
@@ -70,7 +71,7 @@ def procPublica(archLec):
     def leeArticulo(arr1,linDatos):
         for i in range(len(linDatos)):
             listaDatos.append("articulo")
-#            print("\n")
+#            print(" Articulo \n")
             if i+1 < len(linDatos):
                 for j in range(linDatos[i]+1,linDatos[i+1]):
                     tempo = arr1[j].split(",")
@@ -227,11 +228,16 @@ def procPublica(archLec):
                     # Obtiene la información del (o los) autor(es)
                     if tempo[0] == "Coautor":
                         for k in range(j+1,linDatos[i+1]):
+                            if arr1[k] == "Coautores":
+                                continue
+                            test3 = arr1[k].find("Coautor")
+                            if test3 == 0:
+                                continue
                             test1 = re.sub(r",[A-Z]+,[A-Z][a-z]+","",arr1[k])
                             test1 = re.sub(r",null","",test1)
                             test1 = test1.replace(",", " ")
-                            listaDatos.append(test1)
 #                            print(test1)
+                            listaDatos.append(test1)
                         
 
     # Función que procesa datos de memorias publicadas
@@ -400,6 +406,7 @@ def procPublica(archLec):
 
     # Lee archivo
     read = df.read()
+#    print(read)
 #        contenido = df.readlines()
     
     # Se posiciona el lector al inicio del archivo
