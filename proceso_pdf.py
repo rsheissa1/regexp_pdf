@@ -22,7 +22,7 @@ import procPub # Módulo de procesamiento Publicaciones
 
 # Ruta del directorio a procesar. La ruta ha sido fijada, sin embargo, puede modificarse el código para
 # ser dinámica en tiempo de ejecución.
-path = "/support/python/virtual_envs/test_code/regexp_pdf/cvu_referencia"
+path = "/home/rsheissa/Development/Python/regexp_pdf/cvu_referencia"
 
 
 if __name__ == "__main__":
